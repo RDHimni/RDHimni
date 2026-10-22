@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Rida Dhimni
 
-I'm an **Android Developer** with 4+ years of experience building clean, efficient, and user-friendly mobile applications using **Kotlin**, **Jetpack Compose**, and **Kotlin Multiplatform (KMP)**.
+I'm an **Android Developer** with 5+ years of experience building clean, efficient, and user-friendly mobile applications using **Kotlin**, **Jetpack Compose**, and **Kotlin Multiplatform (KMP)**.
 
 Currently working on **TakosApp**, a mobile solution that supports offline-first architecture, opportunity filtering, map interactions, and real-time sync — using:
 
